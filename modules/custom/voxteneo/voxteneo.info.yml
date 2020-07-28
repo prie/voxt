@@ -1,0 +1,9 @@
+# name, type, core are required
+name: Vox Teneo
+type: module
+description: Provide custom block for Homepage
+package: Custom
+core_version_requirement: ^8.8 || ^9
+
+dependencies:
+ - drupal:node
